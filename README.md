@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/PPQd2Hq5XUuIgLH202fUqnE7El1HMivQIGXOLkEdcRM2Xmu_z9Q2huncVf2y_A5rlNtszNsXeEPYwofzThjTpFi4HK3TTf99lIGXVBEGv4OxZNGzDhgcf1zY9C1-Aa8aEomiUiRQ" width="50%">
+</p>
+
 ## 🎉 **Bem-vindo ao repositório de códigos do Beecrowd** 🚀
 
 Durante meu ensino médio, para treinar programação eu fiz muitas lições do beecrowd em python e em java, porém eu perdi os arquivos que tinham as de Java ^_^
